@@ -1,4 +1,4 @@
-## Laravel PHP Framework
+## Laravel Admin - Starter kit with dashboard for admin/cpanel projects
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
@@ -6,22 +6,30 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
+# How to install
 
-## Official Documentation
+run `composer g require urameshi/laravel-admin`
 
-Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
+run `composer create-project urameshi/laravel-admin ProjectName`
 
-## Contributing
+after installation, enter in your project folder run `composer install`
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+and be happy
 
-## Security Vulnerabilities
+## installed packages:
+- adminLTE (front-end package for dashboards)
+https://github.com/acacha/adminlte-laravel
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+- Defender (ACL package for security and access control)
+https://github.com/artesaos/defender
 
-### License
+- L5 Repository (Repostory pattern generator)
+https://github.com/andersao/l5-repository
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+Some features are being created.
+
+The goal is to have an easy and usefull package with features ready.
+
+### Dashboard components
+| tables | forms | graphics | calendar | breadcrumbs |
