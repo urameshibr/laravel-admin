@@ -6,8 +6,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-## Documentação em português
-https://github.com/urameshibr/laravel-admin/readme_pt-br.md_
+[Documentação em português](https://github.com/urameshibr/laravel-admin/blob/master/readme_pt-br.md).
 
 # How to install
 
