@@ -1,5 +1,9 @@
 **Laravel Admin - Starter kit com dashboard**
-    
+
+[![Latest Stable Version](https://poser.pugx.org/urameshi/laravel-admin/v/stable)](https://packagist.org/packages/urameshi/laravel-admin)
+[![Total Downloads](https://poser.pugx.org/urameshi/laravel-admin/downloads)](https://packagist.org/packages/urameshi/laravel-admin)
+[![Latest Unstable Version](https://poser.pugx.org/urameshi/laravel-admin/v/unstable)](https://packagist.org/packages/urameshi/laravel-admin) 
+[![License](https://poser.pugx.org/urameshi/laravel-admin/license)](https://packagist.org/packages/urameshi/laravel-admin)
 
 **Como instalar**
 

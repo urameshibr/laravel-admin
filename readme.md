@@ -1,10 +1,9 @@
 ## Laravel Admin - Starter kit with dashboard for admin/cpanel projects
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/urameshi/laravel-admin/v/stable)](https://packagist.org/packages/urameshi/laravel-admin)
+[![Total Downloads](https://poser.pugx.org/urameshi/laravel-admin/downloads)](https://packagist.org/packages/urameshi/laravel-admin)
+[![Latest Unstable Version](https://poser.pugx.org/urameshi/laravel-admin/v/unstable)](https://packagist.org/packages/urameshi/laravel-admin) 
+[![License](https://poser.pugx.org/urameshi/laravel-admin/license)](https://packagist.org/packages/urameshi/laravel-admin)
 
 [Documentação em português](https://github.com/urameshibr/laravel-admin/blob/master/readme_pt-br.md).
 
