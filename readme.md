@@ -6,14 +6,12 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
+## Documentação em português
+https://github.com/urameshibr/laravel-admin/readme_pt-br.md_
 
 # How to install
 
-run `composer g require urameshi/laravel-admin`
-
 run `composer create-project urameshi/laravel-admin ProjectName`
-
-after installation, enter in your project folder run `composer install`
 
 and be happy
 
